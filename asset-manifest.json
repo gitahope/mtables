@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mtables/static/css/main.6eacbd99.css",
-    "main.js": "/mtables/static/js/main.5d98aff5.js",
-    "static/js/787.5480e000.chunk.js": "/mtables/static/js/787.5480e000.chunk.js",
-    "static/media/logo.png": "/mtables/static/media/logo.0f98e8b83bb297819dbd.png",
-    "index.html": "/mtables/index.html",
-    "main.6eacbd99.css.map": "/mtables/static/css/main.6eacbd99.css.map",
-    "main.5d98aff5.js.map": "/mtables/static/js/main.5d98aff5.js.map",
-    "787.5480e000.chunk.js.map": "/mtables/static/js/787.5480e000.chunk.js.map"
+    "main.css": "/multiplication-tables/static/css/main.31a506e6.css",
+    "main.js": "/multiplication-tables/static/js/main.ba39bf58.js",
+    "static/js/787.5480e000.chunk.js": "/multiplication-tables/static/js/787.5480e000.chunk.js",
+    "static/media/logo.png": "/multiplication-tables/static/media/logo.0f98e8b83bb297819dbd.png",
+    "index.html": "/multiplication-tables/index.html",
+    "main.31a506e6.css.map": "/multiplication-tables/static/css/main.31a506e6.css.map",
+    "main.ba39bf58.js.map": "/multiplication-tables/static/js/main.ba39bf58.js.map",
+    "787.5480e000.chunk.js.map": "/multiplication-tables/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6eacbd99.css",
-    "static/js/main.5d98aff5.js"
+    "static/css/main.31a506e6.css",
+    "static/js/main.ba39bf58.js"
   ]
 }
