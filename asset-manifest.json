@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/multiplication-tables/static/css/main.6ac4be27.css",
+    "main.css": "/multiplication-tables/static/css/main.8bbe18ec.css",
     "main.js": "/multiplication-tables/static/js/main.45c6ea2f.js",
     "static/js/787.5480e000.chunk.js": "/multiplication-tables/static/js/787.5480e000.chunk.js",
     "static/media/logo.png": "/multiplication-tables/static/media/logo.0f98e8b83bb297819dbd.png",
     "index.html": "/multiplication-tables/index.html",
-    "main.6ac4be27.css.map": "/multiplication-tables/static/css/main.6ac4be27.css.map",
+    "main.8bbe18ec.css.map": "/multiplication-tables/static/css/main.8bbe18ec.css.map",
     "main.45c6ea2f.js.map": "/multiplication-tables/static/js/main.45c6ea2f.js.map",
     "787.5480e000.chunk.js.map": "/multiplication-tables/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ac4be27.css",
+    "static/css/main.8bbe18ec.css",
     "static/js/main.45c6ea2f.js"
   ]
 }
